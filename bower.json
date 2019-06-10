@@ -1,0 +1,23 @@
+{
+  "name": "tarea1",
+  "authors": [
+    "xcb91 <galcrp.015@gmail.com>"
+  ],
+  "description": "tarea",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "fontawesome": "^5.8.2"
+  }
+}
